@@ -6,8 +6,8 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 8, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      forks: true, // Forked projects will not be displayed if set to true.
+      projects: ['latihan-dicoding','Aplikasi-Login','daftar-biodata-siswa','progres-belajarku','latihan-branch','Intro-to-Vue-3','learn-vue'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -99,7 +99,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: '', // to hide blog section, keep it empty
+    username: 'lexyerresta', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
