@@ -92,7 +92,7 @@ const config = {
       title: 'LexAnimeList',
       description:
         'The anime website that can see the latest anime update with rank, score, episode, and many more.',
-      imageUrl: 'https://assets.vercel.com/image/upload/q_auto/front/zeit/og.png',
+      imageUrl: 'https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png',
       link: 'https://lexanimelist.vercel.app',
     },
     {
