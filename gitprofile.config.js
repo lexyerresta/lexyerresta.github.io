@@ -105,7 +105,7 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'medium', // medium | dev
+    source: 'dev', // medium | dev
     username: 'lexyerresta', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
