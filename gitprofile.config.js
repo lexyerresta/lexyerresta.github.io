@@ -42,7 +42,7 @@ const config = {
     'Laravel',
     'Tailwind',
     'React.js',
-    'Next.js'
+    'Next.js',
     'MySQL',
     'Figma',
     'Git',
