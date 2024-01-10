@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://pink-bunni-34.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
+      'https://profile-api-prod.s3.us-west-2.amazonaws.com/1125214639_45a2a459-038c-4c18-a786-94db5d18f2ed?response-content-disposition=attachment%3Bfilename%3DCurriculum%2520Vitae%2520-%2520Lexy%2520Erresta.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240110T005224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=AKIAZKXXDXTXZF2KYWCD%2F20240110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=0d85357ec3f9c117179afe8914df1f03a9617f6c3091ee1d83d4bbb55706cee2', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
