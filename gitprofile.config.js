@@ -7,7 +7,7 @@ const config = {
     limit: 8, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
-      projects: ['latihan-dicoding','Aplikasi-Login','daftar-biodata-siswa','progres-belajarku','latihan-branch','Intro-to-Vue-3','learn-vue'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['lexyerresta'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
