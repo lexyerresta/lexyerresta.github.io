@@ -85,6 +85,7 @@ const config = {
       degree: 'Software Engineering Program',
       from: '2015',
       to: '2018',
+      link: 'https://smkti-baliglobal.sch.id/'
     },
     {
       institution: 'STIKOM Bali Institute Technology and Bussiness ',
