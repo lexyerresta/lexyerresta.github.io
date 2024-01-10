@@ -19,8 +19,8 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
+    medium: 'lexyerresta',
+    dev: 'lexyerresta',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -47,22 +47,22 @@ const config = {
     'Figma',
     'Git',
   ],
-  /* experiences: [
+  experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Blessing Digital',
+      position: 'Content Writer',
+      from: 'July 2016',
+      to: 'October 2016',
+      companyLink: 'https://www.blessingdigital.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Badan Narkotika Nasional Provinsi Bali',
+      position: 'Prevention and Community Empowerment',
+      from: 'April 2022',
+      to: 'July 2022',
+      companyLink: 'https://bali.bnn.go.id/',
     },
-  ], */
+  ],
   /* certifications: [
     {
       name: 'Lorem ipsum',
@@ -71,6 +71,14 @@ const config = {
       link: 'https://example.com'
     },
   ], */
+  certifications: [
+    {
+      name: 'Alibaba Cloud Certification',
+      body: 'Learning Cloud Applications',
+      year: 'March 2023 to September 2025',
+      link: 'https://xuecdn2.aliyunedu.net/img_b41e8c0796f99840a77227619869a41d.jpg'
+    },
+  ],
   education: [
     {
       institution: 'TI Bali Global Denpasar',
@@ -98,7 +106,7 @@ const config = {
     {
       title: 'Responsive Website',
       description:
-        'This is my first freelance project. The responsive web create with bootstrap 5, AOS and the swiper slider.',
+        'My first freelance project. The responsive web create with bootstrap 5, AOS and the swiper slider.',
       imageUrl: 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg',
       link: 'bootstrap-website-sigma.vercel.app',
     },
