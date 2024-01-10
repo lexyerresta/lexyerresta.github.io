@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://lexyerresta.github.io/',
+    website: 'lexyerresta.github.io',
     phone: '',
     email: 'errestlegends@gmail.com',
   },
@@ -108,7 +108,7 @@ const config = {
       description:
         'My first freelance project. The responsive web create with bootstrap 5, AOS and the swiper slider.',
       imageUrl: 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg',
-      link: 'bootstrap-website-sigma.vercel.app',
+      link: 'https://bootstrap-website-sigma.vercel.app',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
