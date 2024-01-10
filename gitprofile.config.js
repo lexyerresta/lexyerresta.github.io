@@ -95,6 +95,13 @@ const config = {
       imageUrl: 'https://assets.vercel.com/image/upload/q_auto/front/zeit/og.png',
       link: 'https://lexanimelist.vercel.app',
     },
+    {
+      title: '',
+      description:
+        '',
+      imageUrl: '',
+      link: '',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
