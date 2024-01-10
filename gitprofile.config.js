@@ -96,11 +96,11 @@ const config = {
       link: 'https://lexanimelist.vercel.app',
     },
     {
-      title: '',
+      title: 'Responsive Website',
       description:
-        '',
-      imageUrl: '',
-      link: '',
+        'This is my first freelance project. The responsive web create with bootstrap 5, AOS and the swiper slider.',
+      imageUrl: 'https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg',
+      link: 'bootstrap-website-sigma.vercel.app',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
