@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'lexyerresta', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,44 +11,43 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'lexyerresta',
+    twitter: 'lexyerresta',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://lexyerresta.github.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'errestlegends@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
+    'PHP',
+    'JavaScript',
+    'TypeScript',
+    'Bootstrap',
+    'Laravel',
     'Tailwind',
+    'React.js',
+    'Next.js'
+    'MySQL',
+    'Figma',
+    'Git',
   ],
-  experiences: [
+  /* experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -63,7 +62,7 @@ const config = {
       to: 'August 2021',
       companyLink: 'https://example.com',
     },
-  ],
+  ], */
   /* certifications: [
     {
       name: 'Lorem ipsum',
@@ -74,40 +73,33 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'TI Bali Global Denpasar',
+      degree: 'Software Engineering Program',
       from: '2015',
-      to: '2019',
+      to: '2018',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'STIKOM Bali Institute Technology and Bussiness ',
+      degree: 'Information Systems',
+      from: '2019',
+      to: '2023',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'LexAnimeList',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'The anime website that can see the latest anime update with rank, score, episode, and many more.',
+      imageUrl: 'https://assets.vercel.com/image/upload/q_auto/front/zeit/og.png',
+      link: 'https://lexanimelist.vercel.app',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -180,7 +172,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/lexyerresta"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
